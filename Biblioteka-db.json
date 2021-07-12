@@ -1,0 +1,63 @@
+{
+    "Knjige":[
+        {      "id":0,
+               "ime":"Misli i obogati se",
+               "opis":"Kultni bestseler, najčuvenija i najuticajnija knjiga o uspehu ikada napisana Čestitamo! Izabrali ste da pročitate jednu od najboljih knjiga svih vremena. Neverovatna istraživanja i organizovane informacije, nastale dugogodišnjim zalaganjem i radom Napoleona Hila, i danas dopiru do čitalaca širom sveta. U periodu od dvadeset pet godina, Hil je uz pomoć jednog od najbogatijih..",
+               "slika":"https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/332049_600_600px.jpg",
+                "ocena":8.2,
+               "zanr":["Popularna psihologija","neki zanr"],
+               "autori":[0]
+
+            },
+            {   "id":1,
+                "ime":"DAMIN GAMBIT",
+                "opis":"U njoj je ostala samo zamišljena šahovska tabla sa složenom i nerešenom pozicijom. Nije bilo zaista važno ko igra crnim figurama ni da li se stvarna tabla nalazi u Moskvi ili Njujorku, ili u podrumu sirotišta. Ova verna slika u njenoj glavi bila je njeno pravo kraljevstvo. Kada je sa osam godina završila u sirotištu, činilo se da je Bet Harmon predodređena za sudbinu sivu i bezličnu poput odeće koju je nosila. Sve dok ne odigra prvu partiju šaha. Njen genijalni talenat odmah je očigledan – dok igra, čula joj se izoštravaju, jasnije razmišlja, i prvi put oseća da ima kontrolu nad svojim životom. Bet postaje sve bolja, a glamurozni i uzbudljivi turniri pružaju joj nadu da je čeka drugačija budućnost na tabli sa šezdeset četiri polja u crno-belom svetu. Ali taj svet zamršen je kao i njeni potezi, i iako deluje mirno i uglađeno, krije vulkane strasti i opasnosti, i u njemu su dozvoljene najpodmuklije spletke.",
+                "ocena":9.3,
+                "slika":"https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/353049_600_600px.jpg",
+                "zanr":["ROMAN"],
+                "autori":[2]
+            },
+            {
+                "id":2,
+                "ime":"MISLI ZNAMENITIH SRBA",
+                "opis":"Misli znamenitih Srba i izreke srpskih velikana. Velikana koji su svojim životom, radom, delom ostavili veliki trag u istoriji, kulutri i duhovnosti ovog naroda…",
+                "ocena":8.5,
+                "slika":"https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355148_600_600px.jpg",
+                "zanr":["EDICIJA"],
+                "autori":[3]
+            }
+        
+
+    ],
+    "Autori":[
+        {
+            "id": 0,
+             "ime":"Napoleon",
+             "prezime":"Hil",
+             "slika":"https://upload.wikimedia.org/wikipedia/commons/7/75/Napoleon_Hill_headshot.jpg"
+        },
+        {
+            "id": 1,
+             "ime":"Neki",
+             "prezime":"Autor",
+             "slika":"https://upload.wikimedia.org/wikipedia/commons/7/75/Napoleon_Hill_headshot.jpg"
+        }
+        ,
+        {
+            "id": 2,
+             "ime":"Volter",
+             "prezime":"Tevis",
+             "slika":"data:image/jpeg;base64,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"
+        }
+        ,
+        {
+            "id": 3,
+             "ime":"Nikola",
+             "prezime":"Miletić",
+             "slika":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/600px-No_image_available.svg.png"
+        }
+    ]
+  
+    
+
+}
